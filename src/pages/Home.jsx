@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <section className="hero">
-      <h1>Technical Lead • Front-End Engineer</h1>
+      <h1>Technical Lead • Front-End Developer @ HCLTech</h1>
       <p>
         I build fast, accessible, and scalable web apps with React & Angular.
         I love performance tuning, clean components, and smooth UX.
